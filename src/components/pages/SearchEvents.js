@@ -4,9 +4,9 @@ import { useNavigate } from 'react-router-dom'
 import mapPin from '../../images/mappin.png'
 import Button from '@mui/material/Button';
 
-import MapSearch from '../childComponents/MapSearch'
-import MoreInfoDialog from '../childComponents/MoreInfoDialog';
-import EventsList from '../childComponents/EventsList';
+import MapSearch from '../childcomponents/MapSearch'
+import MoreInfoDialog from '../childcomponents/MoreInfoDialog';
+import EventsList from '../childcomponents/EventsList';
 import '../../css/SearchEvents.css'
 import HostNavbar from '../layout/navbars/HostNavbar';
 import UserNavbar from '../layout/navbars/UserNavbar';
